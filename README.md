@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0704-binary-search) |
