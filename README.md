@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
@@ -43,4 +44,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
