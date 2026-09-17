@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0704-binary-search) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0704-binary-search) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Math
 |  |
 | ------- |
@@ -109,8 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0074-search-a-2d-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
