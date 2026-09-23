@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0367-valid-perfect-square) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
