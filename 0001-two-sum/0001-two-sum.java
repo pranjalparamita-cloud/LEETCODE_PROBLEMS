@@ -3,16 +3,14 @@ class Solution {
         int[] arr=new int[2];
         int left=0;
         int right=1;
-        while(left<nums.length){
+        while(right<nums.length){
             if(nums[left]+nums[right]==target){
                 arr[0]=left;
                 arr[1]=right;
-                return arr;
-
             }
             right++;
-            if(right==nums.length){
-                left++;
+            if (right==nums.length){
+                left=left+1;
                 right=left+1;
             }
         }
