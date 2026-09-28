@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -271,11 +272,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
