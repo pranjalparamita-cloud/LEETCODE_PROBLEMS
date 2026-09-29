@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0020-valid-parentheses) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0066-plus-one) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
