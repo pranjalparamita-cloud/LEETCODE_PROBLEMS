@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0165-compare-version-numbers](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0165-compare-version-numbers) |
 | [0227-basic-calculator-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0394-decode-string) |
 | [0420-strong-password-checker](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0420-strong-password-checker) |
 | [1096-brace-expansion-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0394-decode-string) |
 | [1096-brace-expansion-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0394-decode-string) |
 ## Manacher
 |  |
 | ------- |
