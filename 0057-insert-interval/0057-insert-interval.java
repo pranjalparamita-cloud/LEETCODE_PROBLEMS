@@ -1,11 +1,8 @@
 class Solution {
-    public int[][] insert(
-        int[][] intervals,
-        int[] newInterval) {
+    public int[][] insert(int[][] intervals,int[] newInterval) {
         List<int[]> result = new ArrayList<>();
         int i = 0;
-        while (i < intervals.length &&
-               intervals[i][1] < newInterval[0]) {
+        while (i < intervals.length && intervals[i][1] < newInterval[0]) {
             result.add(intervals[i]);
             i++;
         }
