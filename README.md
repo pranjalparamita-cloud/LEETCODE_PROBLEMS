@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0066-plus-one) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Sliding Window
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0054-spiral-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3498-reverse-degree-of-a-string) |
 ## Bucket Sort
 |  |
