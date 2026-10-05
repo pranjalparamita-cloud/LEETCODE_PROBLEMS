@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0905-sort-array-by-parity) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0071-simplify-path) |
 | [0165-compare-version-numbers](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0165-compare-version-numbers) |
 | [0227-basic-calculator-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0394-decode-string) |
 | [0420-strong-password-checker](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0420-strong-password-checker) |
 | [0678-valid-parenthesis-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1096-brace-expansion-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1096-brace-expansion-ii) |
