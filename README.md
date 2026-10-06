@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0877-stone-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0227-basic-calculator-ii) |
 | [0367-valid-perfect-square](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0367-valid-perfect-square) |
+| [0877-stone-game](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3524-find-x-value-of-array-i) |
@@ -386,4 +389,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
