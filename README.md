@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0054-spiral-matrix) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0069-sqrtx) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
