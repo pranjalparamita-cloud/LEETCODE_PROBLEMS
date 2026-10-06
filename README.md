@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0055-jump-game) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0088-merge-sorted-array) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0071-simplify-path) |
 | [0165-compare-version-numbers](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0165-compare-version-numbers) |
 | [0227-basic-calculator-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0227-basic-calculator-ii) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
