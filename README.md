@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0078-subsets) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Sliding Window
