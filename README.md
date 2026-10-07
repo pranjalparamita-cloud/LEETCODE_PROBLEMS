@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0093-restore-ip-addresses) |
 | [0301-remove-invalid-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1096-brace-expansion-ii) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -429,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 <!---LeetCode Topics End-->
