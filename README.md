@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0704-binary-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0905-sort-array-by-parity) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0905-sort-array-by-parity](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0905-sort-array-by-parity](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0134-gas-station) |
 | [0420-strong-password-checker](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0420-strong-password-checker) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0394-decode-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -401,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0877-stone-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
