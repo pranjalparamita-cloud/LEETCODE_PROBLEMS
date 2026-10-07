@@ -6,7 +6,7 @@ class Solution {
             i++;
         }
         int sign=1;
-        if(i<n && (s.charAt(i)=='+'|| s.charAt(i)=='-')){
+        if(i<n && (s.charAt(i)=='+' || s.charAt(i)=='-')){
             if(s.charAt(i)=='-'){
                 sign=-1;
             }
@@ -23,6 +23,6 @@ class Solution {
             }
             i++;
         }
-        return (int)(num*sign);
+        return (int)(sign*num);
     }
 }
