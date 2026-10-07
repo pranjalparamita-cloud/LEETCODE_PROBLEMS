@@ -24,12 +24,7 @@ class Solution {
             min = Math.min(min, nums[i]);
             max = Math.max(max, nums[i]);
         }
-        while (left > 0 && nums[left - 1] > min) {
-            left--;
-        }
-        while (right < n - 1 && nums[right + 1] < max) {
-            right++;
-        }
+
         return right - left + 1;
     }
 }
