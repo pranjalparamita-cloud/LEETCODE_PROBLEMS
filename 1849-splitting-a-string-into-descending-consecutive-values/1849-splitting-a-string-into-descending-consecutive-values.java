@@ -1,20 +1,28 @@
-import java.math.BigInteger;
 class Solution {
     public boolean splitString(String s) {
-        return solve(s, 0, null, 0);
-    }
-    boolean solve(String s, int index, BigInteger prev, int parts) {
-        if (index == s.length()) {
-            return parts >= 2;
+        int n = s.length();
+        long firstVal = 0;
+        for (int i = 0; i < n - 1; i++) {
+            firstVal = firstVal * 10 + (s.charAt(i) - '0');
+            if (dfs(s, i + 1, firstVal)) {
+                return true;
+            }
         }
-        BigInteger num = BigInteger.ZERO;
+        return false;
+    }
+    private boolean dfs(String s, int index, long prevVal) {
+        if (index == s.length()) {
+            return true;
+        }
+        long currVal = 0;
         for (int i = index; i < s.length(); i++) {
-            num = num.multiply(BigInteger.TEN)
-                     .add(BigInteger.valueOf(s.charAt(i) - '0'));
-            if (prev == null || num.equals(prev.subtract(BigInteger.ONE))) {
-                if (solve(s, i + 1, num, parts + 1)) {
+            currVal = currVal * 10 + (s.charAt(i) - '0');
+            if (currVal == prevVal - 1) {
+                if (dfs(s, i + 1, currVal)) {
                     return true;
                 }
+            } else if (currVal >= prevVal) {
+                break;
             }
         }
         return false;
