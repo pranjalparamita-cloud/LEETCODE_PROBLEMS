@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0922-sort-array-by-parity-ii) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0238-product-of-array-except-self) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
