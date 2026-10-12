@@ -1,43 +1,32 @@
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
+        int n = nums1.length;
+        int m = nums2.length;
+        int[] arr = new int[Math.min(n, m)];
+        int k = 0;
 
-        Arrays.sort(nums1);
-        Arrays.sort(nums2);
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (nums1[i] == nums2[j]) {
+                    boolean found = false;
 
-        ArrayList<Integer> list = new ArrayList<>();
+                    for (int x = 0; x < k; x++) {
+                        if (arr[x] == nums1[i]) {
+                            found = true;
+                            break;
+                        }
+                    }
 
-        int left = 0;
-        int right = 0;
+                    if (!found) {
+                        arr[k] = nums1[i];
+                        k++;
+                    }
 
-        while (left < nums1.length && right < nums2.length) {
-
-            if (nums1[left] == nums2[right]) {
-
-                if (list.size() == 0 || 
-                    list.get(list.size() - 1) != nums1[left]) {
-
-                    list.add(nums1[left]);
+                    break;
                 }
-
-                left++;
-                right++;
-            }
-
-            else if (nums1[left] < nums2[right]) {
-                left++;
-            }
-
-            else {
-                right++;
             }
         }
 
-        int[] arr = new int[list.size()];
-
-        for (int i = 0; i < list.size(); i++) {
-            arr[i] = list.get(i);
-        }
-
-        return arr;
+        return java.util.Arrays.copyOf(arr, k);
     }
 }
