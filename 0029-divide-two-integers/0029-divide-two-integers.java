@@ -12,27 +12,20 @@ class Solution {
         }
         long dvd = Math.abs((long) dividend);
         long dvs = Math.abs((long) divisor);
-
         long ans = 0;
 
         while (dvd >= dvs) {
-
-            long temp = dvs;
-            long count = 1;
-
-            while ((temp << 1) <= dvd) {
-                temp = temp << 1;
-                count = count << 1;
+            long count = 0;
+            while (dvd >= (dvs << (count + 1))) {
+                count++;
             }
-
-            dvd = dvd - temp;
-            ans = ans + count;
+            ans += (1L << count);
+            dvd -= (dvs << count);
         }
 
         if (sign == -1) {
             return -(int) ans;
         }
-
         return (int) ans;
     }
 }
