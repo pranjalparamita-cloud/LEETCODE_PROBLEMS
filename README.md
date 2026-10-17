@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0704-binary-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0905-sort-array-by-parity) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
