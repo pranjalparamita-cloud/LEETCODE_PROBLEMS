@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3886-sum-of-sortable-integers) |
 ## Quicksort
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3886-sum-of-sortable-integers) |
 ## Combinatorics
 |  |
 | ------- |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3886-sum-of-sortable-integers) |
 ## Timsort
 |  |
 | ------- |
