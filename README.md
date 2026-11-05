@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1254-number-of-closed-islands](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2089-find-target-indices-after-sorting-array) |
