@@ -1,9 +1,9 @@
 class Solution {
     public String simplifyPath(String path) {
-        Stack<String> stack= new Stack<>();
+        Stack<String> stack=new Stack<>();
         String[] parts=path.split("/");
-        for (String part:parts){
-            if (part.equals("") || part.equals(".")){
+        for(String part:parts){
+            if(part.equals("") || part.equals(".")){
                 continue;
             }
             if(part.equals("..")){
