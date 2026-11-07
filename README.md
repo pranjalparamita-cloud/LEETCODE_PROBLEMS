@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0704-binary-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0881-boats-to-save-people) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
 | ------- |
