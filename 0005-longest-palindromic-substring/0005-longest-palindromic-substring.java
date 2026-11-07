@@ -7,13 +7,12 @@ class Solution {
         for(int i=0;i<s.length();i++){
             String odd=expand(s,i,i);
             String even=expand(s,i,i+1);
-            if (odd.length()>ans.length()){
+            if(odd.length()>ans.length()){
                 ans=odd;
             }
-            if (even.length()>ans.length()){
+            if(even.length()>ans.length()){
                 ans=even;
             }
-            
         }
         return ans;
     }
