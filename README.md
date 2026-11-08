@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0289-game-of-life) |
+| [0347-top-k-frequent-elements](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0376-wiggle-subsequence) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0523-continuous-subarray-sum) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [1122-relative-sort-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1267-count-servers-that-communicate](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -433,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -467,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0420-strong-password-checker](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0420-strong-password-checker) |
 | [1882-process-tasks-using-servers](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -633,4 +640,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0139-word-break) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
