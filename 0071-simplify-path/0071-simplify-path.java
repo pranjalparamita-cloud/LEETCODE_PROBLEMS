@@ -16,10 +16,11 @@ class Solution {
             }
         }
 
-        StringBuilder result=new StringBuilder();
+        String result="";
         for(String dir:stack){
-            result.append("/").append(dir);
+            result+="/";
+            result+=dir;
         }
-        return result.length()==0?"/":result.toString();
+        return result.length()==0?"/":result;
     }
 }
