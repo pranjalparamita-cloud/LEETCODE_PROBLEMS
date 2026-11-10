@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0165-compare-version-numbers) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0289-game-of-life) |
 | [1254-number-of-closed-islands](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1267-count-servers-that-communicate) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0093-restore-ip-addresses) |
 | [0301-remove-invalid-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1096-brace-expansion-ii) |
@@ -629,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
