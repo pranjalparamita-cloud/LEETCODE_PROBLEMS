@@ -4,8 +4,8 @@ class Solution {
         String[] v2=version2.split("\\.");
         int n=Math.max(version1.length(),version2.length());
         for(int i=0;i<n;i++){
-            int num1=i<v1.length ? Integer.parseInt(v1[i]):0;
-            int num2=i<v2.length ? Integer.parseInt(v2[i]):0;
+            int num1=(i<v1.length) ? Integer.parseInt(v1[i]):0;
+            int num2=(i<v2.length) ? Integer.parseInt(v2[i]):0;
             if(num1>num2){
                 return 1;
             }
