@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0165-compare-version-numbers) |
 | [0227-basic-calculator-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0227-basic-calculator-ii) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0139-word-break) |
 | [0376-wiggle-subsequence](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0376-wiggle-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1096-brace-expansion-ii) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
