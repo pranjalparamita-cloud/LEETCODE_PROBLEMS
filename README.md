@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0739-daily-temperatures) |
+| [0820-short-encoding-of-words](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0820-short-encoding-of-words) |
 | [0875-koko-eating-bananas](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0881-boats-to-save-people) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0420-strong-password-checker) |
 | [0678-valid-parenthesis-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0692-top-k-frequent-words) |
+| [0820-short-encoding-of-words](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0820-short-encoding-of-words) |
 | [0856-score-of-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0692-top-k-frequent-words) |
+| [0820-short-encoding-of-words](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0820-short-encoding-of-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1096-brace-expansion-ii) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0692-top-k-frequent-words) |
+| [0820-short-encoding-of-words](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0820-short-encoding-of-words) |
 ## Stack
 |  |
 | ------- |
