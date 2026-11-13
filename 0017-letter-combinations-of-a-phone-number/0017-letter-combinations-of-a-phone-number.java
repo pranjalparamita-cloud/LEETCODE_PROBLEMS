@@ -1,9 +1,7 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
         ArrayList<String> result=new ArrayList<>();
-        if (digits==null || digits.isEmpty()){
-            return result;
-        }
+        
         backtrack(digits,0,new StringBuilder(),result);
         return result;
     }
