@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0622-design-circular-queue](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0622-design-circular-queue) |
 | [0692-top-k-frequent-words](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0739-daily-temperatures) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0341-flatten-nested-list-iterator) |
+| [0622-design-circular-queue](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0148-sort-list) |
+| [0622-design-circular-queue](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0622-design-circular-queue) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0341-flatten-nested-list-iterator) |
+| [0622-design-circular-queue](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0622-design-circular-queue) |
 ## Iterator
 |  |
 | ------- |
