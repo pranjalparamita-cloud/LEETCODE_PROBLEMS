@@ -10,7 +10,7 @@ class Solution {
         prev.next = null;
         return merge(sortList(head), sortList(slow));
     }
-    private ListNode merge(ListNode l1, ListNode l2) {
+    public ListNode merge(ListNode l1, ListNode l2) {
         ListNode d = new ListNode(0), c = d;
         while (l1 != null && l2 != null) {
             if (l1.val < l2.val) { c.next = l1; l1 = l1.next; }
