@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0341-flatten-nested-list-iterator) |
+| [0543-diameter-of-binary-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0341-flatten-nested-list-iterator) |
+| [0543-diameter-of-binary-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -781,4 +784,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
