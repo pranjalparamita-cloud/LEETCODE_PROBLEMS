@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0238-product-of-array-except-self) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0289-game-of-life) |
 | [1254-number-of-closed-islands](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -696,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [0341-flatten-nested-list-iterator](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0341-flatten-nested-list-iterator) |
 | [1254-number-of-closed-islands](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1267-count-servers-that-communicate) |
