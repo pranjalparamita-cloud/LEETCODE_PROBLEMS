@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0141-linked-list-cycle) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0071-simplify-path) |
@@ -737,4 +739,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0973-k-closest-points-to-origin) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
