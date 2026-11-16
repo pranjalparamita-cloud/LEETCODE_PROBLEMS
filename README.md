@@ -676,12 +676,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0341-flatten-nested-list-iterator) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0341-flatten-nested-list-iterator) |
 | [1254-number-of-closed-islands](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1267-count-servers-that-communicate) |
@@ -760,4 +764,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
