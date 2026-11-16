@@ -4,7 +4,7 @@ class Solution {
         for (char c : s.toCharArray()) {
             map.put(c, map.getOrDefault(c, 0) + 1);
         }
-        List<Character>[] buckets = new List[s.length() + 1];
+        List<Character>[] buckets = new ArrayList[s.length() + 1];
         for (char c : map.keySet()) {
             int freq = map.get(c);
             if (buckets[freq] == null) {
