@@ -5,7 +5,7 @@ class Solution {
         int r=people.length-1;
         int boat=0;
         while(l<=r){
-            if (people[l]+people[r]<=limit){
+            if(people[l]+people[r]<=limit){
                 l++;
             }
             r--;
