@@ -13,10 +13,10 @@ class Solution {
             buckets[freq].add(c);
         }
         StringBuilder sb = new StringBuilder();
-        for (int freq = buckets.length - 1; freq > 0; freq--) {
-            if (buckets[freq] != null) {
-                for (char c : buckets[freq]) {
-                    sb.append(String.valueOf(c).repeat(freq));
+        for (int i=buckets.length-1;i>0;i--) {
+            if (buckets[i] != null) {
+                for (char c : buckets[i]) {
+                    sb.append(String.valueOf(c).repeat(i));
                 }
             }
         }
