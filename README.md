@@ -565,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0227-basic-calculator-ii) |
 | [0341-flatten-nested-list-iterator](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0394-decode-string) |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0155-min-stack) |
 | [0341-flatten-nested-list-iterator](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0622-design-circular-queue) |
 ## Iterator
