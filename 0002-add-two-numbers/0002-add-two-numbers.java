@@ -4,8 +4,20 @@ class Solution {
         ListNode current = dummyHead;
         int carry = 0;
         while (l1 != null || l2 != null || carry != 0) {
-            int x = (l1 != null) ? l1.val : 0;
-            int y = (l2 != null) ? l2.val : 0;
+            int x;
+            int y;
+            if(l1 != null){
+                x=l1.val;
+            } 
+            else{
+                x=0;
+            }
+            if(l2 != null) {
+                y=l2.val;
+            }
+            else{
+                y=0;
+            }
             int sum = carry + x + y;
             carry = sum / 10;           
             current.next = new ListNode(sum % 10);
