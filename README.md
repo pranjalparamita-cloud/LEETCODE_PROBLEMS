@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Matrix
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
@@ -740,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
