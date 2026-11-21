@@ -3,13 +3,13 @@ class Solution {
         HashMap<Character, Integer> map = new HashMap<>();
         int left = 0;
         int ans = 0;
-        for (int right = 0; right < s.length(); right++) {
-            char c = s.charAt(right);
+        for (int i= 0; i< s.length();i++) {
+            char c = s.charAt(i);
             if (map.containsKey(c)) {
                 left = Math.max(left, map.get(c) + 1);
             }
-            map.put(c, right);
-            ans = Math.max(ans, right - left + 1);
+            map.put(c, i);
+            ans = Math.max(ans, i - left + 1);
         }
         return ans;
     }
