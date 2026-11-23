@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1254-number-of-closed-islands](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0973-k-closest-points-to-origin) |
+| [1352-product-of-the-last-k-numbers](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -780,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0155-min-stack) |
 | [0341-flatten-nested-list-iterator](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0622-design-circular-queue) |
+| [1352-product-of-the-last-k-numbers](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
 ## Iterator
 |  |
 | ------- |
@@ -816,4 +820,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0543-diameter-of-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
