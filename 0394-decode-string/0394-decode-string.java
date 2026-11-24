@@ -17,8 +17,8 @@ class Solution {
             }
             else if(c==']'){
                 int z=count.pop();
-                String prev=str.pop();
-                String temp=prev;
+                String temp=str.pop();
+                
                 for(int j=0;j<z;j++){
                     temp+=result;
                 }
