@@ -6,7 +6,6 @@ class Solution {
             left = Math.max(left, w);
             right += w;
         }
-
         while (left < right) {
             int mid = left + (right - left) / 2;
             if (canShip(weights, days, mid)) {
@@ -19,18 +18,18 @@ class Solution {
         return left;
     }
 
-    private boolean canShip(int[] weights, int days, int capacity) {
-        int day = 1;
+    public boolean canShip(int[] weights, int days, int capacity) {
+        int dayneed = 1;
         int Load = 0;
 
         for (int w : weights) {
             if (Load + w > capacity) {
-                day++;
+                dayneed++;
                 Load = 0;
             }
             Load += w;
         }
 
-        return day <= days;
+        return dayneed <= days;
     }
 }
