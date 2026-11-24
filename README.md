@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1122-relative-sort-array](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1122-relative-sort-array) |
 | [1254-number-of-closed-islands](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1267-count-servers-that-communicate) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pranjalparamita-cloud/LEETCODE_PROBLEMS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
