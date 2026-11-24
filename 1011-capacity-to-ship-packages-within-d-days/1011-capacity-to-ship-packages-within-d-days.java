@@ -20,17 +20,17 @@ class Solution {
     }
 
     private boolean canShip(int[] weights, int days, int capacity) {
-        int daysNeeded = 1;
-        int currentLoad = 0;
+        int day = 1;
+        int Load = 0;
 
         for (int w : weights) {
-            if (currentLoad + w > capacity) {
-                daysNeeded++;
-                currentLoad = 0;
+            if (Load + w > capacity) {
+                day++;
+                Load = 0;
             }
-            currentLoad += w;
+            Load += w;
         }
 
-        return daysNeeded <= days;
+        return day <= days;
     }
 }
